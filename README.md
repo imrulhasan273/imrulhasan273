@@ -1,7 +1,7 @@
 ### **Hi there 👋**
 
 Glad to see you here! 🤩
-The green dots on my GitHub profile represent my journey 🏃‍♂️ in Github. Outside of GitHub, you can find me on [LinkdIn](https://www.linkedin.com/in/md-imrul-hasan-65a156190/).
+The green dots on my GitHub profile represent my journey 🏃‍♂️ in Github. Outside of GitHub, you can find me on [LinkedIn](https://www.linkedin.com/in/md-imrul-hasan-65a156190/).
 
 <!--
 **imrulhasan273/imrulhasan273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
