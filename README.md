@@ -42,14 +42,14 @@ Here are some ideas to get you started:
 | ------------ | --------------------------- | ---------------- | ---------------------------------------------------------------------------- |
 | ShopHunters  | E-Commerce (Running)        | PHP, Bootstrap   | [Link](https://github.com/imrulhasan273/PHP-E-Commerce-Responsive)           |
 | CRUD Project | Generalizied CRUD Operation | PHP, Bootstrap 4 | [Link](https://github.com/imrulhasan273/A-generalized-CRUD-System-using-PHP) |
-| UAP          | University Management       | PHP              | `Not Availabe`                                                               |
+| UAP MS       | University Management       | PHP              | `Not Availabe`                                                               |
 
 ### WordPress
 
 | Project Name | Description       | Technologies | Reference                                                           |
 | ------------ | ----------------- | ------------ | ------------------------------------------------------------------- |
 | ShopHunters  | E-Commerce        | WordPress    | [Link](https://github.com/imrulhasan273/WordPress-E-Commerce-Black) |
-| Shop         | Business Web Page | WordPress    |                                                                     |
+| Shop         | Business Web Page | WordPress    | [Link](https://github.com/imrulhasan273/WordPress-Business-Airi)    |
 
 ### Deep Learning
 
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 | Project Name | Description       | Technologies            | Reference                                                             |
 | ------------ | ----------------- | ----------------------- | --------------------------------------------------------------------- |
 | Employee AS  | Attendance System | Python, OpenCV, tkinter | [Link](https://github.com/imrulhasan273/AI-Digital-Attendance-System) |
-| Smart Home   | Smart Home        | C, Arduino, IoT         | [Link](https://github.com/imrulhasan273/AI-Digital-Attendance-System) |
+| Smart Home   | Smart Home        | C, Arduino, IoT         | [Link](https://github.com/imrulhasan273/Smart-Home-Arduino)           |
 
 ### Graphics
 
@@ -73,14 +73,15 @@ Here are some ideas to get you started:
 
 ### Java
 
-| Project Name  | Description          | Technologies | Reference |
-| ------------- | -------------------- | ------------ | --------- |
-| Result System | Find Students Result | Java, Swing  |           |
-| Calculator    | Multi Functional     | Java, Swing  |           |
-| Psudoku       | Psudoku Game         | Java, Swing  |           |
+| Project Name  | Description          | Technologies | Reference                                                         |
+| ------------- | -------------------- | ------------ | ----------------------------------------------------------------- |
+| Result System | Find Students Result | Java, Swing  | [Link](https://github.com/imrulhasan273/University-Result-System) |
+| UAP DB        | Database             | Java, Swing  | [Link](https://github.com/imrulhasan273/UAP-DB)                   |
+| Calculator    | Multi Functional     | Java, Swing  | [Link](https://github.com/imrulhasan273/Scientific-Calculator)    |
+| Psudoku       | Psudoku Game         | Java, Swing  | [Link](https://github.com/imrulhasan273/Psudokuu)                 |
 
 ### C
 
-| Project Name            | Description                            | Technologies | Reference |
-| ----------------------- | -------------------------------------- | ------------ | --------- |
-| BD Army Database System | All the information of Bangladesh Army | C            |           |
+| Project Name            | Description                    | Technologies | Reference                                                   |
+| ----------------------- | ------------------------------ | ------------ | ----------------------------------------------------------- |
+| BD Army Database System | All the information of BD Army | C            | [Link](https://github.com/imrulhasan273/Bangladesh-Army-DB) |
