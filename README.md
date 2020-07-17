@@ -26,15 +26,22 @@ Here are some ideas to get you started:
 
 ## Here are some of my respositories
 
+---
+
 ### Laravel
 
-| Project Name     | Description          | Technologies           | Reference                                                             |
-| ---------------- | -------------------- | ---------------------- | --------------------------------------------------------------------- |
-| ShopHunters      | E-Commerce (Running) | Laravel 7, Bootstrap   | [Link](https://github.com/imrulhasan273/M-Laravel-Ecommerce)          |
-| Dashboard        | Custom Admin Panel   | Laravel 7, Bootstrap 4 | [Link](https://github.com/imrulhasan273/Laravel-Dashboard-Bootstrap5) |
-| Payment Gateway  | Payment Gateway      | Laravel 7              | [Link](https://github.com/imrulhasan273/payment-gateway)              |
-| CMS              | Blog                 | Laravel 7              | [Link](https://github.com/imrulhasan273/Laravel-CMS)                  |
-| Laravel Features | Tutorials            | Laravel 7              | [Link](https://github.com/imrulhasan273/laravel-seven)                |
+| Project Name     | Description          | Technologies               | Reference                                                             |
+| ---------------- | -------------------- | -------------------------- | --------------------------------------------------------------------- |
+| Deal Ocean       | E-Commerce (Running) | Laravel 7, Bootstrap 4     | [Link](https://github.com/imrulhasan273/Deal-Ocean)                   |
+| ShopHunters      | E-Commerce           | Laravel 7, Bootstrap 4     | [Link](https://github.com/imrulhasan273/M-Laravel-Ecommerce)          |
+| Dashboard        | Admin Panel (Running)| Laravel 7                  | [Link](https://github.com/imrulhasan273/Black-Dashboard-3)            |         
+| Dashboard        | Custom Admin Panel   | Laravel 7, MDB, Bootstrap 4| [Link](https://github.com/imrulhasan273/Black-Dashboard-2)            |         
+| Dashboard        | Custom Admin Panel   | Laravel 7, Bootstrap 4     | [Link](https://github.com/imrulhasan273/Laravel-Dashboard-Bootstrap5) |
+| Payment Gateway  | Payment Gateway      | Laravel 7                  | [Link](https://github.com/imrulhasan273/payment-gateway)              |
+| CMS              | Blog                 | Laravel 7                  | [Link](https://github.com/imrulhasan273/Laravel-CMS)                  |
+| Laravel Features | Tutorials            | Laravel 7                  | [Link](https://github.com/imrulhasan273/laravel-seven)                |
+
+---
 
 ### Core PHP
 
