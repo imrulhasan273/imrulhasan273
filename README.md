@@ -1,8 +1,7 @@
 ### **Hi there 👋**
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-imrul-hasan-65a156190/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/backstreetimrul/)
-
-[![Portfolio](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=portfolio&logoColor=ffffff)](https://www.imrulhasan.me/)
+[![Portfolio Visit](https://img.shields.io/badge/%20-Visit-black?color=14171A&labelColor=1976d2&logo=portfolio&logoColor=ffffff)](https://www.imrulhasan.me/)
 
 Glad to see you here! 🤩
 The green dots on my GitHub profile represent my journey 🏃‍♂️ in Github. I am passionate, hardworker and active in my work. 
