@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **`Laravel`** and **`Deep Learning`**
+- 🔭 I always like to learn new technology.
+
 
 ## Here are some of my respositories
 
