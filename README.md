@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🔭 I always ready to learn new technologies.
 
 
-![Imrul's github stats](https://github-readme-stats.vercel.app/api?username=imrulhasan273&theme=tokyonight &show_icons=true)
+![Imrul's github stats](https://github-readme-stats.vercel.app/api?username=imrulhasan273&theme=tokyonight&show_icons=true)
 
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=imrulhasan273&show_icons=true" alt="ImrulHasan272"/> </h1>
