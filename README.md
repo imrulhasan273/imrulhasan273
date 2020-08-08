@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **`Laravel`** and **`ReactJS`**
 - 🔭 I always ready to learn new technologies.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imrulhasan273&show_icons=true" alt="ImrulHasan272"/> </h1>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=imrulhasan273&show_icons=true" alt="ImrulHasan272"/> </h1>
 
 
 ## Here are some of my respositories
