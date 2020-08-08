@@ -14,6 +14,11 @@ The green dots on my GitHub profile represent my journey 🏃‍♂️ in Github
 
 ![Imrul's github stats](https://github-readme-stats.vercel.app/api?username=imrulhasan273&theme=tokyonight&show_icons=true&count_private=true)
 
+I am working on a modern tech stack -
+
+- PHP(Laravel), MySQL on Backend
+- JavaScript(Include JQuery and Ajax) and ReactJS on Frontend
+
 <!--
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=imrulhasan273&show_icons=true" alt="ImrulHasan273"/> </h1>
 -->
