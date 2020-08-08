@@ -32,11 +32,8 @@ Here are some ideas to get you started:
 
 ![Imrul's github stats](https://github-readme-stats.vercel.app/api?username=imrulhasan273&theme=tokyonight&show_icons=true&count_private=true)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/imrulhasan273/Laravel-CMS">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Laravel-CMS" />
 </a>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=imrulhasan273&show_icons=true" alt="ImrulHasan272"/> </h1>
