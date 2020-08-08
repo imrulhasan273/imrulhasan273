@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 ![Imrul's github stats](https://github-readme-stats.vercel.app/api?username=imrulhasan273&theme=tokyonight&show_icons=true&count_private=true)
 
 <a href="https://github.com/imrulhasan273/Laravel-CMS">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Laravel-CMS" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ImrulHasan273&repo=Laravel-CMS" />
 </a>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=imrulhasan273&show_icons=true" alt="ImrulHasan272"/> </h1>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=imrulhasan273&show_icons=true" alt="ImrulHasan273"/> </h1>
 
 
 ## Here are some of my respositories
