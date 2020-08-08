@@ -7,8 +7,8 @@ Glad to see you here! 🤩
 The green dots on my GitHub profile represent my journey 🏃‍♂️ in Github. I am passionate, hardworker and active in my work. 
 
 
-- 🔭 I have descent knowledge on **Laravel**, **ReactJS** and **Deep Learning**
-- 🔭 I’m currently working on **`Laravel`** and **`ReactJS`**
+- 🔭 I have descent knowledge in **Laravel**, **ReactJS** and **Deep Learning**
+- 🔭 I’m currently working in **`Laravel`** and **`ReactJS`**
 - 🔭 I always ready to learn new technologies.
 
 
