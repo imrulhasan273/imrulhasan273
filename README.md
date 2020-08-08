@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **`Laravel`** and **`Deep Learning`**
 - 🔭 I always like to learn new technology.
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=imrulhasan273&show_icons=true" alt="ImrulHasan272"/> </h1>
+
 
 ## Here are some of my respositories
 
