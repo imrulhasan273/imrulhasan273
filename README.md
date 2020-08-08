@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 - 🔭 I always ready to learn new technologies.
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
 
 
 
