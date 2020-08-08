@@ -7,24 +7,6 @@ Glad to see you here! 🤩
 The green dots on my GitHub profile represent my journey 🏃‍♂️ in Github. I am passionate, hardworker and active in my work. 
 
 
-<!--
-**imrulhasan273/imrulhasan273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-🤩
-🎯
-🏸
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🔭 I have descent knowledge on **Laravel**, **ReactJS** and **Deep Learning**
-- 🔭 I’m currently working on **`Laravel`** and **`ReactJS`**
-
--->
-
 - 🔭 I have descent knowledge on **Laravel**, **ReactJS** and **Deep Learning**
 - 🔭 I’m currently working on **`Laravel`** and **`ReactJS`**
 - 🔭 I always ready to learn new technologies.
@@ -32,11 +14,14 @@ Here are some ideas to get you started:
 
 ![Imrul's github stats](https://github-readme-stats.vercel.app/api?username=imrulhasan273&theme=tokyonight&show_icons=true&count_private=true)
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=imrulhasan273&show_icons=true" alt="ImrulHasan273"/> </h1>
+
+<!--
 <a href="https://github.com/imrulhasan273/Laravel-CMS">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ImrulHasan273&repo=Laravel-CMS" />
 </a>
+-->
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=imrulhasan273&show_icons=true" alt="ImrulHasan273"/> </h1>
 
 
 ## Here are some of my respositories
