@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🔭 I’m currently working on **`Laravel`** and **`Deep Learning`**
-
-- 🌱 I’m currently learning **`ReactJS`**
+- 🔭 I have descent knowledge on **Laravel**, **ReactJS** and **Deep Learning**
+- 🔭 I’m currently working on **`Laravel`** and **`ReactJS`**
 
 -->
 
-- 🔭 I’m currently working on **`Laravel`** and **`Deep Learning`**
-- 🔭 I always like to learn new technology.
+- 🔭 I have descent knowledge on **Laravel**, **ReactJS** and **Deep Learning**
+- 🔭 I’m currently working on **`Laravel`** and **`ReactJS`**
+- 🔭 I always ready to learn new technologies.
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=imrulhasan273&show_icons=true" alt="ImrulHasan272"/> </h1>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imrulhasan273&show_icons=true" alt="ImrulHasan272"/> </h1>
 
 
 ## Here are some of my respositories
