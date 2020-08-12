@@ -20,9 +20,6 @@ I am working on a modern tech stack -
 - JavaScript(Include JQuery and Ajax) and ReactJS on Frontend
 
 <!--
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=imrulhasan273&show_icons=true" alt="ImrulHasan273"/> </h1>
--->
-<!--
 <a href="https://github.com/imrulhasan273/Laravel-CMS">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ImrulHasan273&repo=Laravel-CMS" />
 </a>
