@@ -11,7 +11,6 @@ The green dots on my GitHub profile represent my journey 🏃‍♂️ in Github
 - 🔭 I’m currently working on **`Laravel`** and **`ReactJS`**
 - 🔭 I always ready to learn new technologies.
 
-
 ![Imrul's github stats](https://github-readme-stats.vercel.app/api?username=imrulhasan273&theme=tokyonight&show_icons=true&count_private=true)
 
 I am working on a modern tech stack -
