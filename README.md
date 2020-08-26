@@ -29,12 +29,12 @@ I am working on a modern tech stack -
 ## Here are some of my respositories
 
 ---
+<!--| Deal Ocean       | E-Commerce (Running) | Laravel 7, Bootstrap 4     | [Link](https://github.com/imrulhasan273/Deal-Ocean)                   |-->
 
 ### Laravel
 
 | Project Name     | Description          | Technologies               | Reference                                                             |
 | ---------------- | -------------------- | -------------------------- | --------------------------------------------------------------------- |
-<!--| Deal Ocean       | E-Commerce (Running) | Laravel 7, Bootstrap 4     | [Link](https://github.com/imrulhasan273/Deal-Ocean)                   |-->
 | ShopHunters      | E-Commerce           | Laravel 7, Bootstrap 4     | [Link](https://github.com/imrulhasan273/M-Laravel-Ecommerce)          |
 | Dashboard        | Admin Panel (Running)| Laravel 7                  | [Link](https://github.com/imrulhasan273/Black-Dashboard-3)            |         
 | Dashboard        | Custom Admin Panel   | Laravel 7, MDB, Bootstrap 4| [Link](https://github.com/imrulhasan273/Black-Dashboard-2)            |         
