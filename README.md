@@ -26,21 +26,21 @@ I am working on a modern tech stack -
 
 <p align="center">
 
+<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="25px" height="25px"/>
+
 <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
 
 <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
-
-<img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" width="25px" height="25px"/>
-
-<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/laravel/laravel-original.svg" width="25px" height="25px"/>
 
-<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="25px" height="25px"/>
 
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
 
