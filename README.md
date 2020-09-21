@@ -39,7 +39,6 @@ I am working on a modern tech stack -
 <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/laravel/laravel-original.svg" width="25px" height="25px"/>
 
 
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
