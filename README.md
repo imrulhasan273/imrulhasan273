@@ -66,14 +66,12 @@ I am working on a modern tech stack -
 
 ---
 
-<!--
 ### ReactJS
 
 | Project Name     | Description          | Technologies               | Reference                                                             |
 | ---------------- | -------------------- | -------------------------- | --------------------------------------------------------------------- |
 | ReactJS Features | Tutorials            | NodeJS, React,             | [Link](https://github.com/imrulhasan273/ReactJS-course)                   |
 
--->
 ---
 
 ### Core PHP
