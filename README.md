@@ -24,6 +24,8 @@ I am working on a modern tech stack -
 </a>
 -->
 
+<p align="center">
+
 <img src="https://devicon.dev/devicon.git/icons/ruby/ruby-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/scala/scala-original.svg" width="25px" height="25px"/>
@@ -57,6 +59,7 @@ I am working on a modern tech stack -
 <img src="https://devicon.dev/devicon.git/icons/rust/rust-plain.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" width="25px" height="25px"/>
 
+</p>
 
 
 ## Here are some of my respositories
