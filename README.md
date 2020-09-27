@@ -55,7 +55,7 @@ I am working on a modern tech stack -
 
 | Project Name     | Description          | Technologies               | Reference                                                             |
 | ---------------- | -------------------- | -------------------------- | --------------------------------------------------------------------- |
-| Laravel Features | laravel 8.6            | Laravel 8                  | [Link](https://github.com/imrulhasan273/laravel-features-v8)                |
+| Laravel Features | laravel 8.6            | Laravel 8, Fortify                  | [Link](https://github.com/imrulhasan273/laravel8-fortify)                |
 | ShopHunters      | E-Commerce           | Laravel 7, Bootstrap 4     | [Link](https://github.com/imrulhasan273/M-Laravel-Ecommerce)          |
 | Dashboard        | Admin Panel (Running)| Laravel 7                  | [Link](https://github.com/imrulhasan273/Black-Dashboard-3)            |         
 | Dashboard        | Custom Admin Panel   | Laravel 7, MDB, Bootstrap 4| [Link](https://github.com/imrulhasan273/Black-Dashboard-2)            |         
