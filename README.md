@@ -79,7 +79,9 @@ I am working on a modern tech stack -
 
 | Project Name     | Description          | Technologies               | Reference                                                             |
 | ---------------- | -------------------- | -------------------------- | --------------------------------------------------------------------- |
-| VueJS Features | Tutorials           | Vue JS             | [Link](https://github.com/imrulhasan273/Vue-JS-Tutorials)                   |
+| VueJS Features | Tutorials           | Vue JS , Without CLI           | [Link](https://github.com/imrulhasan273/Vue-JS-Tutorials)                   |
+| VueJS Features | Tutorials,          | Vue JS , Using CLI            | [Link](https://github.com/imrulhasan273/vue-cli)                   |
+
 
 ---
 
