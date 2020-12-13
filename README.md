@@ -8,9 +8,8 @@ Glad to see you here! 🤩
 The green dots on my GitHub profile represent my journey 🏃‍♂️ in Github. I am passionate, hardworker and active in my work. 
 
 
-- 🔭 I have descent knowledge in **Data Science**, **Laravel**, **ReactJS** and **Deep Learning**
-- 🔭 I’m currently working on **`Laravel`** and **`ReactJS`**
-- 🔭 I always ready to learn new technologies.
+- 🔭 I have descent knowledge in **Data Analysis**
+- 🔭 I am currently working as a Jr. Data Analyst in SureCash in Bangladesh.
 
 ![Imrul's github stats](https://github-readme-stats.vercel.app/api?username=imrulhasan273&theme=tokyonight&show_icons=true&count_private=true)
 
