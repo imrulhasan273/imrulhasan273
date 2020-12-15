@@ -55,6 +55,7 @@ I am working on a modern tech stack -
 
 | Project Name     | Description          | Technologies               | Reference                                                             |
 | ---------------- | -------------------- | -------------------------- | --------------------------------------------------------------------- |
+| Deal Ocean       | E-Commerce (Running) | Laravel 7, Bootstrap 4     | [Link](https://github.com/imrulhasan273/Deal-Ocean)               |
 | Laravel Features | Advanced laravel 8.6            | Laravel 8, Fortify                  | [Link](https://github.com/imrulhasan273/laravel8-fortify)                |
 | ShopHunters      | E-Commerce           | Laravel 7, Bootstrap 4     | [Link](https://github.com/imrulhasan273/M-Laravel-Ecommerce)          |
 | Dashboard        | Admin Panel (Running)| Laravel 7                  | [Link](https://github.com/imrulhasan273/Black-Dashboard-3)            |         
