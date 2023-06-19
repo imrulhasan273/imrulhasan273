@@ -58,62 +58,9 @@ I am working on a modern tech stack -
 | ---------------- | -------------------- | -------------------------- | --------------------------------------------------------------------- |
 | BD Bet (Freelance)     | Betting | Laravel 7, Bootstrap 4     | [Link](https://www.3inbd.com)               |
 | Deal Ocean       | E-Commerce (Running) | Laravel 7, Bootstrap 4     | [Link](https://github.com/imrulhasan273/Deal-Ocean)               |
-| Laravel Features | Advanced laravel 8.6            | Laravel 8, Fortify                  | [Link](https://github.com/imrulhasan273/laravel8-fortify)                |
-| ShopHunters      | E-Commerce           | Laravel 7, Bootstrap 4     | [Link](https://github.com/imrulhasan273/M-Laravel-Ecommerce)          |
-| Dashboard        | Admin Panel (Running)| Laravel 7                  | [Link](https://github.com/imrulhasan273/Black-Dashboard-3)            |         
-| Dashboard        | Custom Admin Panel   | Laravel 7, MDB, Bootstrap 4| [Link](https://github.com/imrulhasan273/Black-Dashboard-2)            |         
-| Dashboard        | Custom Admin Panel   | Laravel 7, Bootstrap 4     | [Link](https://github.com/imrulhasan273/Laravel-Dashboard-Bootstrap5) |
-| Payment Gateway  | Payment Gateway      | Laravel 7                  | [Link](https://github.com/imrulhasan273/payment-gateway)              |
-| CMS              | Blog                 | Laravel 7                  | [Link](https://github.com/imrulhasan273/Laravel-CMS)                  |
-| Laravel Features | Tutorials            | Laravel 7                  | [Link](https://github.com/imrulhasan273/laravel-seven)                |
 
 ---
 
-### Spring Boot
-
-| Project Name     | Description          | Technologies               | Reference                                                             |
-| ---------------- | -------------------- | -------------------------- | --------------------------------------------------------------------- |
-|  CMS      | Customer Management System           | Spring Boot, Java    | [Link](https://github.com/imrulhasan273/spring-boot-cms)          |
-
----
-
-
-### ReactJS
-
-| Project Name     | Description          | Technologies               | Reference                                                             |
-| ---------------- | -------------------- | -------------------------- | --------------------------------------------------------------------- |
-| ReactJS CodePen | Code Editor           | NodeJS, React,Hooks             | [Link](https://github.com/imrulhasan273/React-CodePen)                   |
-| ReactJS CRUD with SPA | CRUD SPA Project            | NodeJS, React,Hooks             | [Link](https://github.com/imrulhasan273/react-crud)                   |
-| ReactJS Features | Tutorials            | NodeJS, React,             | [Link](https://github.com/imrulhasan273/ReactJS-course)                   |
-
-### VueJS
-
-| Project Name     | Description          | Technologies               | Reference                                                             |
-| ---------------- | -------------------- | -------------------------- | --------------------------------------------------------------------- |
-| VueJS Features | Tutorials           | Vue JS , Without CLI           | [Link](https://github.com/imrulhasan273/Vue-JS-Tutorials)                   |
-| VueJS Features | Tutorials,          | Vue JS , Using CLI            | [Link](https://github.com/imrulhasan273/vue-cli)                   |
-
-
----
-
-### Core PHP
-
-| Project Name | Description                 | Technologies     | Reference                                                                    |
-| ------------ | --------------------------- | ---------------- | ---------------------------------------------------------------------------- |
-| ShopHunters  | E-Commerce (Running)        | PHP, Bootstrap   | [Link](https://github.com/imrulhasan273/PHP-E-Commerce-Responsive)           |
-| CRUD Project | Generalizied CRUD Operation | PHP, Bootstrap 4 | [Link](https://github.com/imrulhasan273/A-generalized-CRUD-System-using-PHP) |
-| UAP MS       | University Management       | PHP              | `Not Availabe`                                                               |
-
----
-
-### WordPress
-
-| Project Name | Description       | Technologies | Reference                                                           |
-| ------------ | ----------------- | ------------ | ------------------------------------------------------------------- |
-| ShopHunters  | E-Commerce        | WordPress    | [Link](https://github.com/imrulhasan273/WordPress-E-Commerce-Black) |
-| Shop         | Business Web Page | WordPress    | [Link](https://github.com/imrulhasan273/WordPress-Business-Airi)    |
-
----
 
 ### Deep Learning
 
@@ -138,24 +85,5 @@ I am working on a modern tech stack -
 | ----------------- | -------------------------------- | ------------- | --------------------------------------------------------------- |
 | Object Destroying | One Dynamic Obj, Many Static Obj | C++, Graphics | [Link](https://github.com/imrulhasan273/Object-Destroying-Game) |
 | Smoke             | Smoke Effect on Screen           | C++, Graphics | [Link](https://github.com/imrulhasan273/Graphics-Smoke)         |
-
----
-
-### Java
-
-| Project Name  | Description          | Technologies | Reference                                                         |
-| ------------- | -------------------- | ------------ | ----------------------------------------------------------------- |
-| Result System | Find Students Result | Java, Swing  | [Link](https://github.com/imrulhasan273/University-Result-System) |
-| UAP DB        | Database             | Java, Swing  | [Link](https://github.com/imrulhasan273/UAP-DB)                   |
-| Calculator    | Multi Functional     | Java, Swing  | [Link](https://github.com/imrulhasan273/Scientific-Calculator)    |
-| Psudoku       | Psudoku Game         | Java, Swing  | [Link](https://github.com/imrulhasan273/Psudokuu)                 |
-
----
-
-### C
-
-| Project Name            | Description                    | Technologies | Reference                                                   |
-| ----------------------- | ------------------------------ | ------------ | ----------------------------------------------------------- |
-| BD Army Database System | All the information of BD Army | C            | [Link](https://github.com/imrulhasan273/Bangladesh-Army-DB) |
 
 ---
