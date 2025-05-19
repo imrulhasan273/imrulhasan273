@@ -47,43 +47,4 @@ I am working on a modern tech stack -
 </p>
 
 
-## Here are some of my respositories
 
----
-<!--| Deal Ocean       | E-Commerce (Running) | Laravel 7, Bootstrap 4     | [Link](https://github.com/imrulhasan273/Deal-Ocean)                   |-->
-
-### Laravel
-
-| Project Name     | Description          | Technologies               | Reference                                                             |
-| ---------------- | -------------------- | -------------------------- | --------------------------------------------------------------------- |
-| BD Bet (Freelance)     | Betting | Laravel 7, Bootstrap 4     | [Link](https://www.3inbd.com)               |
-| Deal Ocean       | E-Commerce (Running) | Laravel 7, Bootstrap 4     | [Link](https://github.com/imrulhasan273/Deal-Ocean)               |
-
----
-
-
-### Deep Learning
-
-| Project Name                                                           | Description               | Technologies          | Reference |
-| ---------------------------------------------------------------------- | ------------------------- | --------------------- | --------- |
-| Deep Learning Based Violence Detection Sytem using Surveillance Videos | Violence Detection System | Python, Keras, OpenCV |           |
-
----
-
-### AI
-
-| Project Name | Description       | Technologies            | Reference                                                             |
-| ------------ | ----------------- | ----------------------- | --------------------------------------------------------------------- |
-| Employee AS  | Attendance System | Python, OpenCV, tkinter | [Link](https://github.com/imrulhasan273/AI-Digital-Attendance-System) |
-| Smart Home   | Smart Home        | C, Arduino, IoT         | [Link](https://github.com/imrulhasan273/Smart-Home-Arduino)           |
-
----
-
-### Graphics
-
-| Project Name      | Description                      | Technologies  | Reference                                                       |
-| ----------------- | -------------------------------- | ------------- | --------------------------------------------------------------- |
-| Object Destroying | One Dynamic Obj, Many Static Obj | C++, Graphics | [Link](https://github.com/imrulhasan273/Object-Destroying-Game) |
-| Smoke             | Smoke Effect on Screen           | C++, Graphics | [Link](https://github.com/imrulhasan273/Graphics-Smoke)         |
-
----
