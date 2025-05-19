@@ -52,6 +52,13 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
+**Domain Knowledge**
+
+![MFS](https://img.shields.io/badge/MFS-Mobile_Financial_System-007ACC?style=for-the-badge&logo=android&logoColor=white)
+![DFS](https://img.shields.io/badge/DFS-Digital_Financial_System-28A745?style=for-the-badge&logo=bitcoin&logoColor=white)
+![FCC](https://img.shields.io/badge/FCC-Financial_Crime_and_Compliance-DC3545?style=for-the-badge&logo=paypal&logoColor=white)
+![MSME](https://img.shields.io/badge/MSME-Micro_Small_Medium_Enterprise-FFC107?style=for-the-badge&logo=google&logoColor=black)
+![MFI](https://img.shields.io/badge/MFI-Microfinance_Institutions-6F42C1?style=for-the-badge&logo=moneygram&logoColor=white)
 
 
 
